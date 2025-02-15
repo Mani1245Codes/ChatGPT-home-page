@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<head>
+    <title>ChatGPT</title>
+    <link rel="stylesheet" href="Chat.css">
+</head>
+<body id="cl">
+    <div id="img">
+        <img src="Screenshot 2024-09-24 221141.png">
+    </div>
+    <h3 class="le">ChatGPT 4o mini</h3>
+    
+    <div class="log">Log in</div>
+    <div class="sign">Sign up</div>
+    <div class="lo">
+        <center><img src="Gpt.png"width="60px"></center>
+    </div>
+    <center>
+        <form>
+            <table>
+                <tr>
+                    <tr>
+                        <td class="type1"><h5>Explain supercounducters</h5></td>
+                        <td class="type2"><h5>Make me a web page</h5></td>
+                    </tr>
+                    <tr>
+                        <td class="type3"><h5>Quiz me on world capitals</h5></td> 
+                        <td class="type4"><h5>Design a programming game</h5></td>
+                    </tr>
+
+                </tr>
+            </table>
+        </form>
+        <div class="sea">
+            Message ChatGPT
+        </div>
+        <h6 class="fin">ChatGPT can make mistakes. Check importent info.</h6>
+    </center>
+
+
+</body>
